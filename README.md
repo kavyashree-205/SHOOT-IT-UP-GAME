@@ -2,4 +2,5 @@
 
 The game name is Shoot It Up. It is made with pygame module provided by python. The basic consept of the game is to shoot the same species or characters. The user is given 3 lifes to shoot all characters. 
 
+![](game.png)
 
