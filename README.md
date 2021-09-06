@@ -10,7 +10,7 @@ Controls of the player are
 
 1. <- and -> for controlling the direction of character
 
-2. <<spacebar>> for shooting the character 
+2. Space Bar for shooting the character 
 
 ![](game.png)
 
